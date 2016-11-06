@@ -4,7 +4,7 @@
     "version": "v1.0.1",
     "homepage": "http://anthonyplummer.elementfx.com",
     "author": "Anthony T. Plummer",
-    "licesne": "ISC"
+    "license": "ISC"
   },
   "engines": {
     "node": ">= 0.10.0"
